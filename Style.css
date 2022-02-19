@@ -1,0 +1,9 @@
+.Thumbnail {
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+
+}
+.row {
+    flex-direction: row;
+}
